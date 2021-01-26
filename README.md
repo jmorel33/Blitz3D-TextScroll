@@ -6,4 +6,4 @@ Program still works great today.
 
 Everything is in the single file source code.
 
-A few easter eggs while platying around in the First Person ambience.
+A few easter eggs while playing around in the First Person ambience.
